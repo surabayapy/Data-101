@@ -84,6 +84,7 @@ Jupyter Lab dapat dipasang dengan perintah berikut:
 pip install jupyterlab
 ```
 Apabila telah terpasang, Jupyter Lab dapat dibuka dengan perintah:
+
 ```bash
 jupyter-lab
 ```
